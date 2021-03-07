@@ -1,0 +1,3 @@
+URL为：localhost:8080/demo/query?name=wz
+
+wz和wzz是security注解的默认可以通过的name其他name不能通过
